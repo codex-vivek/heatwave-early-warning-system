@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+streamlit
+requests
+joblib
+openmeteo-requests
+requests-cache
+retry-requests
+imbalanced-learn
